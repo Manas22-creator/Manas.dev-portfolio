@@ -9,7 +9,7 @@ const Contact = () => {
   const contactLinks = [
     { label: 'GitHub', sub: 'View my repositories', icon: <Github size={20}/>, link: 'https://github.com/Manas22-creator' },
     { label: 'LinkedIn', sub: 'Connect professionally', icon: <Linkedin size={20}/>, link: 'https://www.linkedin.com/in/manas-pandey-24684a255/' },
-    { label: 'Email', sub: 'pandeymanas220204@gmail.com', icon: <Mail size={20}/>, link: 'mailto:pandeymanas220204@gmail.com' },
+    { label: 'Email', sub: 'manaswork02@gmail.com', icon: <Mail size={20}/>, link: 'mailto:manaswork02@gmail.com' },
   ];
 
   const sendEmail = (e) => {

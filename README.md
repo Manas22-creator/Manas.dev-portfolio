@@ -65,26 +65,25 @@ It includes multiple sections such as **About, Skills, Projects, Contact, and Re
 ## 📁 Project Structure
 
 
-manas-dev-portfolio/
-│
-├── client/
-│ ├── public/
-│ ├── src/
-│ │ ├── components/
-│ │ │ ├── Navbar.jsx
-│ │ │ ├── Footer.jsx
-│ │ │ ├── Projects.jsx
-│ │ │ ├── Contact.jsx
-│ │ ├── pages/
-│ │ ├── assets/
-│ │ ├── App.jsx
-│ │ └── main.jsx
+manas-dev-portfolio/ 
+│ 
+├── client/ 
+│ ├── public/ 
+│ ├── src/ 
+│ │ ├── components/ 
+│ │ │ ├── Navbar.jsx 
+│ │ │ ├── Footer.jsx 
+│ │ │ ├── Projects.jsx 
+│ │ │ ├── Contact.jsx 
+│ │ ├── pages/ 
+│ │ ├── assets/ 
+│ │ ├── App.jsx 
+│ │ └── main.jsx 
 │
 ├── dist/ (production build)
-├── .gitignore
-├── package.json
-└── README.md
-
+├── .gitignore 
+├── package.json 
+└── README.md 
 
 ---
 

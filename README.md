@@ -64,27 +64,25 @@ It includes multiple sections such as **About, Skills, Projects, Contact, and Re
 
 ## 📁 Project Structure
 
-
-manas-dev-portfolio/ 
-│ 
-├── client/ 
-│ ├── public/ 
-│ ├── src/ 
-│ │ ├── components/ 
-│ │ │ ├── Navbar.jsx 
-│ │ │ ├── Footer.jsx 
-│ │ │ ├── Projects.jsx 
-│ │ │ ├── Contact.jsx 
-│ │ ├── pages/ 
-│ │ ├── assets/ 
-│ │ ├── App.jsx 
-│ │ └── main.jsx 
+manas-dev-portfolio/
 │
-├── dist/ (production build)
-├── .gitignore 
-├── package.json 
-└── README.md 
-
+├── client/                       
+│   ├── public/                      
+│   ├── src/                            
+│   │   ├── components/                   
+│   │   │   ├── Navbar.jsx                               
+│   │   │   ├── Footer.jsx                               
+│   │   │   ├── Projects.jsx                           
+│   │   │   ├── Contact.jsx                           
+│   │   ├── pages/                          
+│   │   ├── assets/                                
+│   │   ├── App.jsx                             
+│   │   └── main.jsx                        
+│
+├── dist/ (production build)                
+├── .gitignore                  
+├── package.json                  
+└── README.md            
 ---
 
 ## ⚙️ Deployment Workflow (Production Setup)
@@ -102,7 +100,6 @@ Connected via GitHub integration
 Auto-deploy enabled on push
 Build command: npm run build
 Publish directory: dist
-
 🔌 Features
 🧑‍💻 About Section
 Personal introduction
@@ -110,7 +107,6 @@ Skills overview
 Career goals
 
 📂 Projects Section
-Real-world projects showcase:
 Legal Justice Project
 Portfolio Website
 Mata Shree Furniture (Internship Project)
@@ -130,51 +126,38 @@ Lazy-loaded components
 Optimized images
 Clean build output
 Fast load time via Vite bundler
-🧩 Challenges Solved
 
-🔧 Fixed deployment issues with the Netlify base directory
-🌍 Managed GitHub + Netlify CI/CD integration
-⚡ Improved UI responsiveness across devices
-📦 Handled modular project architecture
-🔐 Structured scalable frontend components
+🧩 Challenges Solved
+Fixed Netlify deployment base directory issue
+GitHub + Netlify CI/CD integration
+Responsive UI improvements
+Modular architecture design
 
 📌 What This Project Represents
-
-This portfolio is not just a website — it represents:
-
-✔ My development journey
-✔ Real-world project handling ability
-✔ Clean UI/UX thinking
-✔ Production deployment knowledge
-✔ Industry-ready skill set
+My development journey
+Real-world project experience
+UI/UX design thinking
+Production deployment skills
+Industry-ready mindset
 
 👨‍💻 About Me
 
 Manas Pandey
 BSc IT Graduate | Full Stack Developer
 
-Passionate about MERN Stack Development
-Focused on building scalable web applications
-Strong interest in UI/UX and backend systems
-Actively seeking developer opportunities
-
 🔮 Future Improvements
- Add backend for dynamic project updates
- Integrate the blog section
- Add admin dashboard
- Improve animations with Framer Motion
- Add dark/light theme toggle
- Add analytics tracking
- 
+Add backend for dynamic projects
+Blog section integration
+Admin dashboard
+Framer Motion animations
+Dark/light mode
+Analytics tracking
+
 📬 Contact
+📧 Email: manaswork02@gmail.com                          
+🌐 Portfolio: https://manas22portfolio.netlify.app                      
+🐙 GitHub: https://github.com/Manas22-creator                               
 
-If you're a recruiter, client, or collaborator:
-
-📧 Email: (manaswork02@gmail.com)
-🌐 Portfolio: https://manas22portfolio.netlify.app/
-
-🐙 GitHub: https://github.com/Manas22-creator
 
 📜 License
-
 This project is available for learning and professional reference.

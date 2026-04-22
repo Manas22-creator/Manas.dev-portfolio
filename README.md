@@ -63,7 +63,7 @@ It includes multiple sections such as **About, Skills, Projects, Contact, and Re
 ---
 
 ## 📁 Project Structure
-
+```
 manas-dev-portfolio/
 │
 ├── client/                       
@@ -84,6 +84,7 @@ manas-dev-portfolio/
 ├── package.json                  
 └── README.md            
 ---
+```
 
 ## ⚙️ Deployment Workflow (Production Setup)
 
@@ -96,62 +97,62 @@ git commit -m "Updated portfolio"
 git push origin main
 ```
 Step 3: Netlify Deployment
-Connected via GitHub integration
-Auto-deploy enabled on push
-Build command: npm run build
-Publish directory: dist
+Connected via GitHub integration                       
+Auto-deploy enabled on push                                  
+Build command: npm run build                               
+Publish directory: dist                             
 🔌 Features
-🧑‍💻 About Section
-Personal introduction
-Skills overview
-Career goals
+🧑‍💻 About Section                             
+Personal introduction                        
+Skills overview                           
+Career goals                          
 
 📂 Projects Section
-Legal Justice Project
-Portfolio Website
-Mata Shree Furniture (Internship Project)
+Legal Justice Project                                       
+Portfolio Website                           
+Mata Shree Furniture (Internship Project)                               
 
 📬 Contact System
-Email contact form
-Social media integration
-Direct communication links
+Email contact form                               
+Social media integration                                 
+Direct communication links                                 
 
 📱 Responsive Design
-Mobile-first UI
-Tablet & desktop optimized
-Smooth navigation experience
+Mobile-first UI                         
+Tablet & desktop optimized                              
+Smooth navigation experience                               
 
 🚀 Performance Optimization
-Lazy-loaded components
-Optimized images
-Clean build output
-Fast load time via Vite bundler
+Lazy-loaded components                                 
+Optimized images                                
+Clean build output                           
+Fast load time via Vite bundler                                    
 
 🧩 Challenges Solved
-Fixed Netlify deployment base directory issue
-GitHub + Netlify CI/CD integration
-Responsive UI improvements
-Modular architecture design
+Fixed Netlify deployment base directory issue                                 
+GitHub + Netlify CI/CD integration                                   
+Responsive UI improvements                                
+Modular architecture design                                      
 
 📌 What This Project Represents
-My development journey
-Real-world project experience
-UI/UX design thinking
-Production deployment skills
-Industry-ready mindset
+My development journey                                      
+Real-world project experience                                    
+UI/UX design thinking                                         
+Production deployment skills                                
+Industry-ready mindset                         
 
 👨‍💻 About Me
 
-Manas Pandey
-BSc IT Graduate | Full Stack Developer
+Manas Pandey                        
+BSc IT Graduate | Full Stack Developer                         
 
-🔮 Future Improvements
-Add backend for dynamic projects
-Blog section integration
-Admin dashboard
-Framer Motion animations
-Dark/light mode
-Analytics tracking
+🔮 Future Improvements                
+Add backend for dynamic projects                                 
+Blog section integration                                 
+Admin dashboard                              
+Framer Motion animations                     
+Dark/light mode                                  
+Analytics tracking                            
 
 📬 Contact
 📧 Email: manaswork02@gmail.com                          
